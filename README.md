@@ -55,24 +55,10 @@
 ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-a5f3fc?style=flat-square&logoColor=white)
 
 
----
-
-### &nbsp; ✦ &nbsp; GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khanhnguyen522&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=07051a&title_color=c4b5fd&text_color=e9d5ff&icon_color=f0c4f8" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnguyen522&layout=compact&theme=midnight-purple&hide_border=true&bg_color=07051a&title_color=c4b5fd&text_color=e9d5ff" height="150"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0c4f8,100:c4b5fd&height=80&section=footer" width="100%"/>
-
-*dreaming in code &nbsp; ✦ &nbsp; open to what's next*
-
+✦ &nbsp; open to what's next &nbsp;✦
+ 
 </div>
+ 
